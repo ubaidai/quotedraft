@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+data/quotedraft.db
+data/mock_odoo.json
+data/runs/
+*.pyc

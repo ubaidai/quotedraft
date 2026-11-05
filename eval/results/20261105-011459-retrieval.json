@@ -1,0 +1,125 @@
+{
+  "queries": 105,
+  "store": "local",
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "runs": {
+    "trade_terms_off": {
+      "queries": 105,
+      "heldout_queries": 50,
+      "modes": {
+        "keyword": {
+          "recall@1": 0.848,
+          "recall@5": 0.99,
+          "mrr@10": 0.915,
+          "heldout_recall@1": 0.78,
+          "ms_per_query": 1.1,
+          "misses": [
+            {
+              "query": "plain washer 16mm galv",
+              "gold": "FW-M16-HDG",
+              "got": [
+                "HC-10-16-W4",
+                "HC-16-25-W4",
+                "FW-M6-ZP"
+              ]
+            }
+          ]
+        },
+        "vector": {
+          "recall@1": 0.781,
+          "recall@5": 0.971,
+          "mrr@10": 0.861,
+          "heldout_recall@1": 0.7,
+          "ms_per_query": 29.0,
+          "misses": [
+            {
+              "query": "Hex hd bolt 20mm dia x 100mm long, ZP, gr 8.8",
+              "gold": "HB-M20-100-ZP",
+              "got": [
+                "HB-M10-070-HDG",
+                "HB-M10-050-ZP",
+                "HB-M10-050-HDG"
+              ]
+            },
+            {
+              "query": "bearing 6207 shielded both sides",
+              "gold": "BRG-6207-ZZ",
+              "got": [
+                "BRG-6209-ZZ",
+                "BRG-6208-ZZ",
+                "BRG-6206-ZZ"
+              ]
+            },
+            {
+              "query": "Ball valve 2 inch, SS316, screwed BSP, full bore",
+              "gold": "BV-DN50-SS-BSP",
+              "got": [
+                "BV-DN32-SS-BSP",
+                "BV-DN32-BR-BSP",
+                "BV-DN40-SS-BSP"
+              ]
+            }
+          ]
+        },
+        "hybrid": {
+          "recall@1": 0.905,
+          "recall@5": 0.99,
+          "mrr@10": 0.946,
+          "heldout_recall@1": 0.84,
+          "ms_per_query": 24.9,
+          "misses": [
+            {
+              "query": "plain washer 16mm galv",
+              "gold": "FW-M16-HDG",
+              "got": [
+                "FW-M6-ZP",
+                "FW-M8-ZP",
+                "FW-M20-ZP"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "trade_terms_on": {
+      "queries": 105,
+      "heldout_queries": 50,
+      "modes": {
+        "keyword": {
+          "recall@1": 0.962,
+          "recall@5": 1.0,
+          "mrr@10": 0.977,
+          "heldout_recall@1": 0.94,
+          "ms_per_query": 0.5,
+          "misses": []
+        },
+        "vector": {
+          "recall@1": 0.819,
+          "recall@5": 0.99,
+          "mrr@10": 0.88,
+          "heldout_recall@1": 0.8,
+          "ms_per_query": 25.1,
+          "misses": [
+            {
+              "query": "Hex hd bolt 20mm dia x 100mm long, ZP, gr 8.8",
+              "gold": "HB-M20-100-ZP",
+              "got": [
+                "HB-M10-070-ZP",
+                "HB-M10-050-ZP",
+                "HB-M10-030-ZP"
+              ]
+            }
+          ]
+        },
+        "hybrid": {
+          "recall@1": 0.981,
+          "recall@5": 1.0,
+          "mrr@10": 0.986,
+          "heldout_recall@1": 0.96,
+          "ms_per_query": 26.6,
+          "misses": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+From: Imran Qureshi <procurement@indus-mech.example>
+Subject: RFQ - Indus Mechanical - RFQ_09
+
+Dear Sales,
+
+Can you send us a price for the below.
+
+- HHB M20 x 60 HDG : qty 25
+2. water pump 2.2 kW stainless : qty 250
+* 65x65x6 angle iron, 12 lengths
+* gaskets DN40 full face fibre, 25 pcs
+* M20 flat washers stainless - qty 25
+
+Need delivery within 2 weeks.
+
+Thanks,
+Imran Qureshi
+Indus Mechanical
+Tel: +44 7700 959695

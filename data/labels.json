@@ -1,0 +1,777 @@
+{
+  "rfq_01": {
+    "kind": "scan",
+    "messy": false,
+    "injection": false,
+    "customer_email": "hassan.iqbal@northfield-fab.example",
+    "lines": [
+      {
+        "text": "water pump 7.5 kW cast iron",
+        "quantity": 250,
+        "sku": "CP-75KW-CI"
+      },
+      {
+        "text": "resilient seat gate valve DN50",
+        "quantity": 500,
+        "sku": "GV-DN50-CI-FL"
+      }
+    ],
+    "attachment": "rfq_01.pdf"
+  },
+  "rfq_02": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "s.whitlock@kelso-water.example",
+    "lines": [
+      {
+        "text": "Ball valve DN15, brass, screwed BSP, full bore",
+        "quantity": 10,
+        "sku": "BV-DN15-BR-BSP"
+      },
+      {
+        "text": "hex nuts M12 BZP",
+        "quantity": 200,
+        "sku": "HN-M12-ZP"
+      },
+      {
+        "text": "black zip ties 450x7.6mm",
+        "quantity": 10,
+        "sku": "CT-450x76-BK"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_03": {
+    "kind": "body",
+    "messy": true,
+    "injection": false,
+    "customer_email": "procurement@indus-mech.example",
+    "lines": [
+      {
+        "text": "300x4.8 nylon ties, black",
+        "quantity": 10,
+        "sku": "CT-300x48-BK"
+      },
+      {
+        "text": "seamless pipe 3/4 inch schedule 40, 6m",
+        "quantity": 20,
+        "sku": "PP-075-S40"
+      },
+      {
+        "text": "DN80 gate vavle flanged PN16",
+        "quantity": 20,
+        "sku": "GV-DN80-CI-FL"
+      },
+      {
+        "text": "equal angle 75x75x8 S275",
+        "quantity": 10,
+        "sku": "EA-75x75x8-S275"
+      },
+      {
+        "text": "jubilee clips 12-20mm stainles",
+        "quantity": 250,
+        "sku": "HC-12-20-W4"
+      },
+      {
+        "text": "mild steel flat 50x8",
+        "quantity": 4,
+        "sku": "FB-50x8-S275"
+      },
+      {
+        "text": "M24 x 100 hex bolts zinc plated 8.8",
+        "quantity": 4,
+        "sku": null
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_04": {
+    "kind": "scan",
+    "messy": false,
+    "injection": false,
+    "customer_email": "joanna@brightwell-eng.example",
+    "lines": [
+      {
+        "text": "water pump 0.75 kW stainless",
+        "quantity": 50,
+        "sku": "CP-075KW-SS"
+      },
+      {
+        "text": "25x5 flat bar",
+        "quantity": 4,
+        "sku": "FB-25x5-S275"
+      },
+      {
+        "text": "gaskets DN40 full face EPDM",
+        "quantity": 25,
+        "sku": "GK-DN40-EPDM-FF"
+      },
+      {
+        "text": "equal angle 75x75x8 S275",
+        "quantity": 10,
+        "sku": "EA-75x75x8-S275"
+      }
+    ],
+    "attachment": "rfq_04.pdf"
+  },
+  "rfq_05": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": false,
+    "customer_email": "omar.s@harbourplant.example",
+    "lines": [
+      {
+        "text": "1-1/4 inch sch40 CS pipe",
+        "quantity": 10,
+        "sku": "PP-125-S40"
+      },
+      {
+        "text": "end suction pump 0.75 kw, stainless casing, 3 phase",
+        "quantity": 10,
+        "sku": "CP-075KW-SS"
+      },
+      {
+        "text": "mild steel flat 100x10",
+        "quantity": 20,
+        "sku": "FB-100x10-S275"
+      },
+      {
+        "text": "black zip ties 450x7.6mm",
+        "quantity": 10,
+        "sku": "CT-450x76-BK"
+      }
+    ],
+    "attachment": "rfq_05.pdf"
+  },
+  "rfq_06": {
+    "kind": "pdf",
+    "messy": true,
+    "injection": false,
+    "customer_email": "mdoyle@caldervale.example",
+    "lines": [
+      {
+        "text": "6208-2RS",
+        "quantity": 100,
+        "sku": "BRG-6208-2RS"
+      },
+      {
+        "text": "water pump 2.2 kW cast iron",
+        "quantity": 50,
+        "sku": "CP-22KW-CI"
+      },
+      {
+        "text": "DN65 brass ball valve screwed",
+        "quantity": 20,
+        "sku": null
+      },
+      {
+        "text": "100 x 100 x 10 angle, 6m lengths",
+        "quantity": 4,
+        "sku": "EA-100x100x10-S275"
+      },
+      {
+        "text": "bolts M12 40mm zinc plated",
+        "quantity": 50,
+        "sku": "HB-M12-040-ZP"
+      },
+      {
+        "text": "Ball vavle 3/4 inch, SS316, flanged PN16, full bore",
+        "quantity": 25,
+        "sku": "BV-DN20-SS-FL"
+      },
+      {
+        "text": "1-1/2 inch sch 40 seamless pipe",
+        "quantity": 12,
+        "sku": "PP-150-S40"
+      }
+    ],
+    "attachment": "rfq_06.pdf"
+  },
+  "rfq_07": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "hassan.iqbal@northfield-fab.example",
+    "lines": [
+      {
+        "text": "resilient seat gate valve DN100",
+        "quantity": 500,
+        "sku": "GV-DN100-CI-FL"
+      },
+      {
+        "text": "gaskets DN80 full face fibre",
+        "quantity": 25,
+        "sku": "GK-DN80-CAF-FF"
+      },
+      {
+        "text": "hose clamps 40-60 mm W4",
+        "quantity": 100,
+        "sku": "HC-40-60-W4"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_08": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "s.whitlock@kelso-water.example",
+    "lines": [
+      {
+        "text": "jubilee clips 50-70mm stainless",
+        "quantity": 50,
+        "sku": "HC-50-70-W4"
+      },
+      {
+        "text": "resilient seat gate valve DN80",
+        "quantity": 250,
+        "sku": "GV-DN80-CI-FL"
+      },
+      {
+        "text": "cable ties 300x4.8 black",
+        "quantity": 2,
+        "sku": "CT-300x48-BK"
+      },
+      {
+        "text": "DN25 stainless ball valve screwed BSP",
+        "quantity": 25,
+        "sku": "BV-DN25-SS-BSP"
+      },
+      {
+        "text": "1 inch sch 40 seamless pipe",
+        "quantity": 4,
+        "sku": "PP-100-S40"
+      },
+      {
+        "text": "M6 flat washers stainless",
+        "quantity": 100,
+        "sku": "FW-M6-A2"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_09": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "procurement@indus-mech.example",
+    "lines": [
+      {
+        "text": "HHB M20 x 60 HDG",
+        "quantity": 25,
+        "sku": "HB-M20-060-HDG"
+      },
+      {
+        "text": "water pump 2.2 kW stainless",
+        "quantity": 250,
+        "sku": "CP-22KW-SS"
+      },
+      {
+        "text": "65x65x6 angle iron",
+        "quantity": 12,
+        "sku": "EA-65x65x6-S275"
+      },
+      {
+        "text": "gaskets DN40 full face fibre",
+        "quantity": 25,
+        "sku": "GK-DN40-CAF-FF"
+      },
+      {
+        "text": "M20 flat washers stainless",
+        "quantity": 25,
+        "sku": "FW-M20-A2"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_10": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": false,
+    "customer_email": "joanna@brightwell-eng.example",
+    "lines": [
+      {
+        "text": "jubilee clips 25-40mm stainless",
+        "quantity": 200,
+        "sku": "HC-25-40-W4"
+      },
+      {
+        "text": "water pump 1.5 kW stainless",
+        "quantity": 50,
+        "sku": "CP-15KW-SS"
+      },
+      {
+        "text": "black zip ties 200x4.8mm",
+        "quantity": 5,
+        "sku": "CT-200x48-BK"
+      },
+      {
+        "text": "M10 flat washers galv",
+        "quantity": 500,
+        "sku": "FW-M10-HDG"
+      },
+      {
+        "text": "Nut M20 stainless",
+        "quantity": 250,
+        "sku": "HN-M20-A2"
+      },
+      {
+        "text": "3 inch CI gate valve, flanged",
+        "quantity": 50,
+        "sku": "GV-DN80-CI-FL"
+      }
+    ],
+    "attachment": "rfq_10.pdf"
+  },
+  "rfq_11": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": false,
+    "customer_email": "omar.s@harbourplant.example",
+    "lines": [
+      {
+        "text": "Hex hd bolt 8mm dia x 40mm long, zinc plated, gr 8.8",
+        "quantity": 250,
+        "sku": "HB-M8-040-ZP"
+      },
+      {
+        "text": "FB 75 x 10 S275",
+        "quantity": 12,
+        "sku": "FB-75x10-S275"
+      },
+      {
+        "text": "1/2 inch stainless ball valve screwed BSP",
+        "quantity": 25,
+        "sku": "BV-DN15-SS-BSP"
+      },
+      {
+        "text": "65x65x6 angle iron",
+        "quantity": 6,
+        "sku": "EA-65x65x6-S275"
+      },
+      {
+        "text": "cable ties 370x7.6 black",
+        "quantity": 10,
+        "sku": "CT-370x76-BK"
+      },
+      {
+        "text": "hex nuts M20 galvanised",
+        "quantity": 50,
+        "sku": "HN-M20-HDG"
+      }
+    ],
+    "attachment": "rfq_11.pdf"
+  },
+  "rfq_12": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "mdoyle@caldervale.example",
+    "lines": [
+      {
+        "text": "1.5kW centrifugal pump stainless",
+        "quantity": 25,
+        "sku": "CP-15KW-SS"
+      },
+      {
+        "text": "3 inch sch 40 seamless pipe",
+        "quantity": 12,
+        "sku": "PP-300-S40"
+      },
+      {
+        "text": "DN32 brass ball valve screwed BSP",
+        "quantity": 25,
+        "sku": "BV-DN32-BR-BSP"
+      },
+      {
+        "text": "Hex hd bolt 20mm dia x 100mm long, ZP, gr 8.8",
+        "quantity": 10,
+        "sku": "HB-M20-100-ZP"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_13": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": false,
+    "customer_email": "hassan.iqbal@northfield-fab.example",
+    "lines": [
+      {
+        "text": "form A washers M12 BZP",
+        "quantity": 50,
+        "sku": "FW-M12-ZP"
+      },
+      {
+        "text": "Nut M16 galvanised",
+        "quantity": 25,
+        "sku": "HN-M16-HDG"
+      }
+    ],
+    "attachment": "rfq_13.pdf"
+  },
+  "rfq_14": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": false,
+    "customer_email": "s.whitlock@kelso-water.example",
+    "lines": [
+      {
+        "text": "100x2.5 nylon ties, black",
+        "quantity": 2,
+        "sku": "CT-100x25-BK"
+      },
+      {
+        "text": "bearing 6207 shielded both sides",
+        "quantity": 20,
+        "sku": "BRG-6207-ZZ"
+      },
+      {
+        "text": "4 inch sch 40 seamless pipe",
+        "quantity": 12,
+        "sku": "PP-400-S40"
+      },
+      {
+        "text": "end suction pump 4.0 kw, stainless casing, 3 phase",
+        "quantity": 250,
+        "sku": "CP-40KW-SS"
+      }
+    ],
+    "attachment": "rfq_14.pdf"
+  },
+  "rfq_15": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": true,
+    "customer_email": "procurement@indus-mech.example",
+    "lines": [
+      {
+        "text": "DN100 PN16 EPDM full face gasket",
+        "quantity": 250,
+        "sku": "GK-DN100-EPDM-FF"
+      },
+      {
+        "text": "hex nuts M10 stainless",
+        "quantity": 500,
+        "sku": "HN-M10-A2"
+      },
+      {
+        "text": "HHB M20 x 100 stainless A2",
+        "quantity": 500,
+        "sku": "HB-M20-100-A2"
+      }
+    ],
+    "attachment": "rfq_15.pdf"
+  },
+  "rfq_16": {
+    "kind": "pdf",
+    "messy": true,
+    "injection": false,
+    "customer_email": "joanna@brightwell-eng.example",
+    "lines": [
+      {
+        "text": "DN80 gate valve flangd PN16",
+        "quantity": 500,
+        "sku": "GV-DN80-CI-FL"
+      },
+      {
+        "text": "Ball vavle 1-1/4 inch, brass, flanged PN16, full bore",
+        "quantity": 500,
+        "sku": "BV-DN32-BR-FL"
+      },
+      {
+        "text": "DN25 PN16 CAF full face gasket",
+        "quantity": 50,
+        "sku": "GK-DN25-CAF-FF"
+      },
+      {
+        "text": "hydraulic cylinder 50mm bore 300mm stroke",
+        "quantity": 4,
+        "sku": null
+      }
+    ],
+    "attachment": "rfq_16.pdf"
+  },
+  "rfq_17": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "omar.s@harbourplant.example",
+    "lines": [
+      {
+        "text": "water pump 4.0 kW stainless",
+        "quantity": 200,
+        "sku": "CP-40KW-SS"
+      },
+      {
+        "text": "Ball valve DN15, brass, flanged PN16, full bore",
+        "quantity": 200,
+        "sku": "BV-DN15-BR-FL"
+      },
+      {
+        "text": "FF gasket DN20 fibre",
+        "quantity": 20,
+        "sku": "GK-DN20-CAF-FF"
+      },
+      {
+        "text": "65x65x6 angle iron",
+        "quantity": 6,
+        "sku": "EA-65x65x6-S275"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_18": {
+    "kind": "scan",
+    "messy": true,
+    "injection": false,
+    "customer_email": "mdoyle@caldervale.example",
+    "lines": [
+      {
+        "text": "M8 full nuts galvanized",
+        "quantity": 20,
+        "sku": "HN-M8-HDG"
+      },
+      {
+        "text": "end suction pump 1.5 kw, stainles casing, 3 phase",
+        "quantity": 500,
+        "sku": "CP-15KW-SS"
+      },
+      {
+        "text": "FB 50 x 8 S275",
+        "quantity": 20,
+        "sku": "FB-50x8-S275"
+      },
+      {
+        "text": "bearring 6208 sealed both sides",
+        "quantity": 25,
+        "sku": "BRG-6208-2RS"
+      },
+      {
+        "text": "DN25 SS316 ball vavle screwed BSP",
+        "quantity": 250,
+        "sku": "BV-DN25-SS-BSP"
+      },
+      {
+        "text": "6312-2RS bearings",
+        "quantity": 4,
+        "sku": null
+      }
+    ],
+    "attachment": "rfq_18.pdf"
+  },
+  "rfq_19": {
+    "kind": "body",
+    "messy": true,
+    "injection": false,
+    "customer_email": "hassan.iqbal@northfield-fab.example",
+    "lines": [
+      {
+        "text": "bearring 6209 shielded both sides",
+        "quantity": 250,
+        "sku": "BRG-6209-ZZ"
+      },
+      {
+        "text": "40 x 40 x 4 angle, 6m lengths",
+        "quantity": 10,
+        "sku": "EA-40x40x4-S275"
+      },
+      {
+        "text": "75x10 flat bar",
+        "quantity": 12,
+        "sku": "FB-75x10-S275"
+      },
+      {
+        "text": "DN50 gate vavle flanged PN16",
+        "quantity": 200,
+        "sku": "GV-DN50-CI-FL"
+      },
+      {
+        "text": "same pump as our last order",
+        "quantity": 20,
+        "sku": null
+      },
+      {
+        "text": "jubilee clips 32-50mm stainles",
+        "quantity": 25,
+        "sku": "HC-32-50-W4"
+      },
+      {
+        "text": "plain washer 16mm galv",
+        "quantity": 200,
+        "sku": "FW-M16-HDG"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_20": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": false,
+    "customer_email": "s.whitlock@kelso-water.example",
+    "lines": [
+      {
+        "text": "4 inch sch40 CS pipe",
+        "quantity": 10,
+        "sku": "PP-400-S40"
+      },
+      {
+        "text": "plain washer 10mm stainless",
+        "quantity": 10,
+        "sku": "FW-M10-A2"
+      },
+      {
+        "text": "bolts M6 40mm galv",
+        "quantity": 10,
+        "sku": "HB-M6-040-HDG"
+      },
+      {
+        "text": "hose clamps 40-60 mm W4",
+        "quantity": 250,
+        "sku": "HC-40-60-W4"
+      },
+      {
+        "text": "6205-2RS",
+        "quantity": 250,
+        "sku": "BRG-6205-2RS"
+      }
+    ],
+    "attachment": "rfq_20.pdf"
+  },
+  "rfq_21": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "procurement@indus-mech.example",
+    "lines": [
+      {
+        "text": "bolts M12 80mm HDG",
+        "quantity": 25,
+        "sku": "HB-M12-080-HDG"
+      },
+      {
+        "text": "M16 flat washers galv",
+        "quantity": 500,
+        "sku": "FW-M16-HDG"
+      }
+    ],
+    "attachment": null
+  },
+  "rfq_22": {
+    "kind": "pdf",
+    "messy": false,
+    "injection": false,
+    "customer_email": "joanna@brightwell-eng.example",
+    "lines": [
+      {
+        "text": "mild steel flat 40x6",
+        "quantity": 10,
+        "sku": "FB-40x6-S275"
+      },
+      {
+        "text": "M10 full nuts stainless",
+        "quantity": 50,
+        "sku": "HN-M10-A2"
+      },
+      {
+        "text": "4 inch CI gate valve, flanged",
+        "quantity": 20,
+        "sku": "GV-DN100-CI-FL"
+      }
+    ],
+    "attachment": "rfq_22.pdf"
+  },
+  "rfq_23": {
+    "kind": "scan",
+    "messy": false,
+    "injection": false,
+    "customer_email": "omar.s@harbourplant.example",
+    "lines": [
+      {
+        "text": "black zip ties 300x4.8mm",
+        "quantity": 10,
+        "sku": "CT-300x48-BK"
+      },
+      {
+        "text": "Ball valve 2 inch, SS316, screwed BSP, full bore",
+        "quantity": 200,
+        "sku": "BV-DN50-SS-BSP"
+      },
+      {
+        "text": "end suction pump 0.75 kw, cast iron casing, 3 phase",
+        "quantity": 20,
+        "sku": "CP-075KW-CI"
+      },
+      {
+        "text": "DN32 PN16 CAF full face gasket",
+        "quantity": 10,
+        "sku": "GK-DN32-CAF-FF"
+      },
+      {
+        "text": "worm drive clip 10-16mm",
+        "quantity": 250,
+        "sku": "HC-10-16-W4"
+      }
+    ],
+    "attachment": "rfq_23.pdf"
+  },
+  "rfq_24": {
+    "kind": "scan",
+    "messy": false,
+    "injection": false,
+    "customer_email": "mdoyle@caldervale.example",
+    "lines": [
+      {
+        "text": "gaskets DN80 full face CAF",
+        "quantity": 10,
+        "sku": "GK-DN80-CAF-FF"
+      },
+      {
+        "text": "worm drive clip 32-50mm",
+        "quantity": 200,
+        "sku": "HC-32-50-W4"
+      },
+      {
+        "text": "M6 flat washers stainless",
+        "quantity": 200,
+        "sku": "FW-M6-A2"
+      }
+    ],
+    "attachment": "rfq_24.pdf"
+  },
+  "rfq_25": {
+    "kind": "body",
+    "messy": false,
+    "injection": false,
+    "customer_email": "hassan.iqbal@northfield-fab.example",
+    "lines": [
+      {
+        "text": "DN15 PN16 CAF full face gasket",
+        "quantity": 500,
+        "sku": "GK-DN15-CAF-FF"
+      },
+      {
+        "text": "1-1/4 inch sch 40 seamless pipe",
+        "quantity": 10,
+        "sku": "PP-125-S40"
+      },
+      {
+        "text": "bearing 6210 sealed both sides",
+        "quantity": 200,
+        "sku": "BRG-6210-2RS"
+      },
+      {
+        "text": "brass lever ball valves DN25 screwed BSP",
+        "quantity": 50,
+        "sku": "BV-DN25-BR-BSP"
+      },
+      {
+        "text": "200x4.8 nylon ties, black",
+        "quantity": 5,
+        "sku": "CT-200x48-BK"
+      }
+    ],
+    "attachment": null
+  }
+}
